@@ -1,0 +1,221 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Assignment1</name>
+    </assembly>
+    <members>
+        <member name="T:Assignment1.Circle">
+            <summary>
+             Created Circle class which is inherits from Shape class.
+            This class hold method and properties for Drawing Circle
+            </summary>
+        </member>
+        <member name="M:Assignment1.Circle.#ctor(System.Int32)">
+            <summary>
+             constructor to initialize the instance of class
+            </summary>
+            <param name="r">r holds radius of circle</param>
+        </member>
+        <member name="M:Assignment1.Circle.Drawer(Assignment1.Drawer)">
+            <summary>
+            This method holds specific Shape(Circle) to draw or also to fill on Shape
+             if Fill is on
+            </summary>
+            <param name="myCanvas">myCanvas holds Drawing area</param>
+        </member>
+        <member name="T:Assignment1.Drawer">
+            <summary>
+            This class hold method and properties that is required during drawing. The initial position of pen and 
+            some useful method.
+            </summary>
+        </member>
+        <member name="F:Assignment1.Drawer.g">
+            <summary>
+            Create Instance data graphics
+            </summary>
+        </member>
+        <member name="F:Assignment1.Drawer.brush">
+            <summary>
+            Create Instance for SoildBrush
+            </summary>
+        </member>
+        <member name="F:Assignment1.Drawer.fill">
+            <summary>
+            Create Instance for fill
+            </summary>
+        </member>
+        <member name="F:Assignment1.Drawer.checkSyntax">
+            <summary>
+            Create Instance for SyntaxChecker
+            </summary>
+        </member>
+        <member name="F:Assignment1.Drawer.storeMethod">
+            <summary>
+            Create Instance for StoreMethod
+            </summary>
+        </member>
+        <member name="F:Assignment1.Drawer.storeVariable">
+            <summary>
+            Create Instance for VariableStorer
+            </summary>
+        </member>
+        <member name="F:Assignment1.Drawer.error">
+            <summary>
+            Create Instance for error
+            </summary>
+        </member>
+        <member name="F:Assignment1.Drawer.pen">
+            <summary>
+            Create Instance for pen
+            </summary>
+        </member>
+        <member name="F:Assignment1.Drawer.xPos">
+            <summary>
+            public variable for xPos, yPos
+            </summary>
+        </member>
+        <member name="F:Assignment1.Drawer.yPos">
+            <summary>
+            public variable for xPos, yPos
+            </summary>
+        </member>
+        <member name="M:Assignment1.Drawer.#ctor(System.Drawing.Graphics)">
+            <summary>
+             constructor to initialize the instance of class
+            </summary>
+            <param name="g">g holds methods and properties to draw and fill graphics objects</param>
+        </member>
+        <member name="M:Assignment1.Drawer.DrawLine(System.Int32,System.Int32)">
+            <summary>
+            Draw line from current pen posiion
+            </summary>
+            <param name="toX">Position to draw</param>
+            <param name="toY">Position to draw</param>
+        </member>
+        <member name="M:Assignment1.Drawer.MoveTo(System.Int32,System.Int32)">
+            <summary>
+            Move from current position to given position
+            </summary>
+            <param name="toX">position to draw</param>
+            <param name="toY">position to draw</param>
+        </member>
+        <member name="M:Assignment1.Drawer.Set_Pen_Color(System.Drawing.Color)">
+            <summary>
+            This method hold hold pen color that is Provided by user through parse
+            </summary>
+            <param name="colour">colour hold pen color that is given by user</param>
+        </member>
+        <member name="M:Assignment1.Drawer.Reset">
+            <summary>
+            Reset Drawing area
+            </summary>
+        </member>
+        <member name="M:Assignment1.Drawer.Clear">
+            <summary>
+            Clear Drawing area
+            </summary>
+        </member>
+        <member name="T:Assignment1.Rectangle">
+            <summary>
+            Created Rectangle class which is inherits from Shape class
+            </summary>
+        </member>
+        <member name="M:Assignment1.Rectangle.#ctor(System.Int32,System.Int32)">
+            <summary>
+            constructor to initialize the instance of class
+            </summary>
+            <param name="x">x assign value on height</param>
+            <param name="y">x assign value on width</param>
+        </member>
+        <member name="M:Assignment1.Rectangle.Drawer(Assignment1.Drawer)">
+            <summary>
+            This method holds specific Shape(Rectangle) to draw or also to fill on Shape
+             if Fill is on
+            </summary>
+            <param name="myCanvas">myCanvas holds Drawing area</param>
+        </member>
+        <member name="M:Assignment1.CommandParser.CmdConditionIf(System.Collections.Generic.List{System.String},Assignment1.Drawer,System.Int32,System.Int32)">
+            <summary>
+            This method execute if condition when user enter if with statement in them.
+            </summary>
+            <param name="listData">value provided by user in program window</param>
+            <param name="myCanvas">Hold Draw to draw on</param>
+            <param name="num">line from where parse get executed</param>
+            <param name="z">gives error on line number</param>
+        </member>
+        <member name="M:Assignment1.CommandParser.CmdLoopFor(System.Collections.Generic.List{System.String},Assignment1.Drawer,System.Int32,System.Int32)">
+            <summary>
+            This method execute for loop operation when user enter for with statement in them.
+            </summary>
+            <param name="listData">value provided by user in program window</param>
+            <param name="myCanvas">Hold Draw to draw on</param>
+            <param name="num">line from where parse get executed</param>
+            <param name="z">gives error on line number</param>
+        </member>
+        <member name="M:Assignment1.CommandParser.CmdMethodSelect(System.Collections.Generic.List{System.String},Assignment1.Drawer,System.Int32,System.Int32)">
+            <summary>
+            This method execute method operation when user enter while with statement in them.
+            </summary>
+            <param name="listData">value provided by user in program window</param>
+            <param name="myCanvas">Hold Draw to draw on</param>
+            <param name="num">line from where parse get executed</param>
+            <param name="z">gives error on line number</param>
+        </member>
+        <member name="M:Assignment1.CommandParser.ParameterSeperator(System.String[],Assignment1.Drawer,System.Int32)">
+            <summary>
+            This method interact with different Shape and drawing component use for drawing Shape
+            </summary>
+            <param name="readCmd">value provided by user</param>
+            <param name="myCanvas">Hold Draw to draw on</param>
+            <param name="num">line from where parse get executed</param>
+        </member>
+        <member name="T:Assignment1.Form1">
+            <summary>
+            Created FormA class which inherits from Form 
+            This class holds methods and properties for a bitmap, slider, Menu bar, and Enter event on command prompt
+            </summary>
+        </member>
+        <member name="M:Assignment1.Program.Main">
+            <summary>
+             The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:Assignment1.Triangle">
+            <summary>
+            Created Triangle class which is inherits from Shape class.
+            This class is responsible for drawing Triangle.
+            </summary>
+        </member>
+        <member name="M:Assignment1.Triangle.#ctor(System.Int32,System.Int32,System.Int32)">
+            <summary>
+             constructor to initialize the instance of class
+            </summary>
+            <param name="x">x hold hypotenuse value provided by user</param>
+            <param name="y">y hold base value provided by user</param>
+            <param name="z">z hold adjacent value provided by user</param>
+        </member>
+        <member name="M:Assignment1.Triangle.Drawer(Assignment1.Drawer)">
+            <summary>
+            This method holds specific Shape(Triangle) to draw or also to fill on Shape
+             if Fill is on
+            </summary>
+            <param name="myCanvas">myCanvas holds Drawing area</param>
+        </member>
+        <member name="T:Assignment1.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Assignment1.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Assignment1.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

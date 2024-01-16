@@ -1,0 +1,39 @@
+D:\Assignment\UnitTest\bin\Debug\UnitTest.dll
+D:\Assignment\UnitTest\bin\Debug\UnitTest.pdb
+D:\Assignment\UnitTest\bin\Debug\Assignment1.exe
+D:\Assignment\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Assignment\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Assignment\UnitTest\bin\Debug\Assignment1.pdb
+D:\Assignment\UnitTest\bin\Debug\Assignment1.exe.config
+D:\Assignment\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Assignment\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Assignment\UnitTest\obj\Debug\UnitTest.csproj.AssemblyReference.cache
+D:\Assignment\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+D:\Assignment\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+D:\Assignment\UnitTest\obj\Debug\UnitTest.dll
+D:\Assignment\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\amit\source\repos\assesment\assesment\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\amit\source\repos\assesment\assesment\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\humid\OneDrive\Desktop\thread workin file c#\ASE Project\assesment\assesment\UnitTest\obj\Debug\UnitTest.csproj.AssemblyReference.cache
+C:\Users\humid\OneDrive\Desktop\thread workin file c#\ASE Project\assesment\assesment\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\humid\OneDrive\Desktop\thread workin file c#\ASE Project\assesment\assesment\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\humid\OneDrive\Desktop\thread workin file c#\ASE Project\assesment\assesment\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\humid\OneDrive\Desktop\for testing\assesment\UnitTest\obj\Debug\UnitTest.csproj.AssemblyReference.cache
+C:\Users\humid\OneDrive\Desktop\for testing\assesment\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\humid\OneDrive\Desktop\for testing\assesment\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\humid\OneDrive\Desktop\for testing\assesment\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\humid\OneDrive\Desktop\for testing\assesment\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\humid\OneDrive\Desktop\for testing\assesment\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\humid\OneDrive\Desktop\for testing\assesment\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\humid\OneDrive\Desktop\for testing\assesment\UnitTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\humid\OneDrive\Desktop\for testing\assesment\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\humid\OneDrive\Desktop\for testing\assesment\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\humid\OneDrive\Desktop\for testing\assesment\UnitTest\bin\Debug\Assignment1.exe
+C:\Users\humid\OneDrive\Desktop\for testing\assesment\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\humid\OneDrive\Desktop\for testing\assesment\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\humid\OneDrive\Desktop\for testing\assesment\UnitTest\bin\Debug\Assignment1.pdb
+C:\Users\humid\OneDrive\Desktop\for testing\assesment\UnitTest\bin\Debug\Assignment1.xml
+C:\Users\humid\OneDrive\Desktop\for testing\assesment\UnitTest\bin\Debug\Assignment1.exe.config
+C:\Users\humid\OneDrive\Desktop\for testing\assesment\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\humid\OneDrive\Desktop\for testing\assesment\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\humid\OneDrive\Desktop\for testing\assesment\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete

@@ -1,0 +1,17 @@
+D:\Assignment\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+D:\Assignment\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+D:\Assignment\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+D:\Assignment\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+D:\Assignment\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.SuggestedBindingRedirects.cache
+D:\Assignment\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+D:\Assignment\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.cache
+D:\Assignment\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+D:\Assignment\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+D:\Assignment\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+D:\Assignment\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+C:\Users\humid\OneDrive\Desktop\thread workin file c#\ASE Project\assesment\assesment\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+C:\Users\humid\OneDrive\Desktop\thread workin file c#\ASE Project\assesment\assesment\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+C:\Users\humid\OneDrive\Desktop\thread workin file c#\ASE Project\assesment\assesment\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+C:\Users\humid\OneDrive\Desktop\thread workin file c#\ASE Project\assesment\assesment\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.cache
+C:\Users\humid\OneDrive\Desktop\thread workin file c#\ASE Project\assesment\assesment\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\humid\OneDrive\Desktop\thread workin file c#\ASE Project\assesment\assesment\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
